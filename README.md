@@ -1,4 +1,4 @@
-# STOCK-SENSE-AI
+
 import React, { useState, useMemo } from ‘react’;
 import { ChevronDown, TrendingUp, TrendingDown, Star, AlertCircle, CheckCircle } from ‘lucide-react’;
 
